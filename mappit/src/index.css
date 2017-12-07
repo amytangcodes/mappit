@@ -1,0 +1,94 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+section {
+  padding: 20px 0;
+}
+
+ul, li {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+.btn-clear {
+  background: #FA7252;
+  color: white;
+}
+
+.navbar-inverse {
+  border: none;
+}
+
+.padding_t-b {
+  padding: 50px 0 20px;
+}
+
+.form-sidebar {
+  padding-top: 30px;
+}
+
+.form-group {
+  color: #89949B;
+}
+
+.form-control option:first-child {
+  text-transform: uppercase;
+}
+
+.col-sm-9 {
+  padding-right: 0;
+}
+
+#legend {
+  height: 55px;
+  width: 70px;
+  background-color: rgba(233, 240, 245, 0.5);
+  border-radius: 3px;
+  padding: 8px 13px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.legend-content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.legend-title {
+  padding-left: 10px;
+  font-weight: bold;
+}
+
+.legend-title p {
+  margin: 0;
+}
+
+.legend-swatch {
+  height: 12px;
+  width: 12px;
+  border-radius: 50%;
+}
+
+.bg-it {
+  background: #AA00AA;
+  border: 2px solid #FF55FF;
+}
+
+.bg-hr {
+  background: #00AA00;
+  border: 2px solid #55FF55;
+}
+
+@media (max-width: 768px) {
+  .col-sm-9 {
+    padding-right: 15px;
+  }
+}

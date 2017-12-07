@@ -1,0 +1,71 @@
+[
+  {
+    "id": "0014000000VANsY",
+    "it_owner": "Rayna O'Neil",
+    "hr_owner": "George Saites",
+    "account_owner": "Rayna O'Neil",
+    "account_manager": "",
+    "director": "Trevor Timbeck",
+
+    "account_name": "Customer 1",
+    "sales_segment": "Medium",
+
+    "location": {
+      "city": "Waterloo",
+      "state": "ON",
+      "country": "Canada",
+      "latlng": { "lat": 43.4642578, "lng": -80.5204096 }
+    },
+
+    "industry": "Public Admin",
+    "site": "IT",
+    "product": "Reference Seat",
+    "monthly_value": 300000.0
+  },
+  {
+    "id": "0012000000VALoo",
+    "it_owner": "Fake It Name",
+    "hr_owner": "Fake Hr Name",
+    "account_owner": "Fake It Name",
+    "account_manager": "",
+    "director": "Trevor Timbeck",
+
+    "account_name": "Customer 2",
+    "sales_segment": "Enterprise",
+
+    "location": {
+      "city": "Toronto",
+      "state": "ON",
+      "country": "Canada",
+      "latlng": { "lat": 43.653226, "lng": -79.3831843 }
+    },
+
+    "industry": "Marketing",
+    "site": "HR",
+    "product": "Select Membership Enterprise 1",
+    "monthly_value": 1000.83
+  },
+  {
+    "id": "0014000000VALoo",
+    "it_owner": "Vladimir Livrinski",
+    "hr_owner": "Kathy Brizeli",
+    "account_owner": "Vladimir Livrinski",
+    "account_manager": "",
+    "director": "Trevor Timbeck",
+
+    "account_name": "Customer 2",
+    "sales_segment": "Enterprise",
+
+    "location": {
+      "city": "Toronto",
+      "state": "ON",
+      "country": "Canada",
+      "latlng": { "lat": 43.653226, "lng": -79.3831843 }
+    },
+
+    "industry": "Construction",
+    "site": "HR",
+    "product": "Select Membership Enterprise 1",
+    "monthly_value": 1007000.83
+  }
+]
